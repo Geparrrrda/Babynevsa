@@ -1,0 +1,14 @@
+body {
+  font-size: 12pt;
+  color: #ffffff;
+  background-color: #212121;
+}
+.secret {
+  text-align: center;
+}
+.babyin {
+  font-family: Arial;
+  text-align: center;
+  font-size: 20;
+  line-height: 5;
+}
